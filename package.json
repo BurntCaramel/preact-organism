@@ -12,14 +12,21 @@
   "scripts": {
     "build": "nwb build-web-module",
     "clean": "nwb clean-module",
+    "dev": "nwb serve-preact-app ./demo",
     "test": "nwb test",
     "test:coverage": "nwb test --coverage",
     "test:watch": "nwb test --server"
   },
-  "dependencies": {
+  "dependencies": {},
+  "peerDependencies": {
+    "preact": "^8.2.6"
   },
   "devDependencies": {
-    "nwb": "0.19.x"
+    "babel-preset-preact": "^1.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "nwb": "^0.19.0",
+    "preact": "^8.2.6",
+    "preact-render-spy": "^1.2.1"
   },
   "author": "",
   "homepage": "",

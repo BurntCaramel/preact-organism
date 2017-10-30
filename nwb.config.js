@@ -6,5 +6,11 @@ module.exports = {
       global: 'PreactOrganism',
       externals: {}
     }
+  },
+  babel: {
+    presets: ['preact']
+  },
+  karma: {
+    browsers: ['ChromeHeadless']
   }
 }
