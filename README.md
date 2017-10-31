@@ -4,7 +4,9 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe preact-organism here.
+**Dead simple React state management to bring pure components alive**
+
+See: [react-organism](https://github.com/RoyalIcing/react-organism)
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
