@@ -1,7 +1,7 @@
 {
   "name": "preact-organism",
-  "version": "0.1.0",
-  "description": "Describe preact-organism here",
+  "version": "0.1.2",
+  "description": "Dead simple async state management",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [

@@ -4,7 +4,9 @@ module.exports = {
     esModules: true,
     umd: {
       global: 'PreactOrganism',
-      externals: {}
+      externals: {
+        'preact': 'preact'
+      }
     }
   },
   babel: {
