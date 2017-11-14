@@ -5,7 +5,7 @@
 [![Coveralls][coveralls-badge]][coveralls]
 ![](http://img.badgesize.io/https://unpkg.com/preact-organism/umd/preact-organism.min.js?compression=gzip&style=flat-square)
 
-**Dead simple React state management to bring pure components alive**
+**Dead simple Preact state management to bring pure components alive**
 
 See: [react-organism](https://github.com/RoyalIcing/react-organism)
 
