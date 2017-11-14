@@ -9,11 +9,11 @@
 
 See: [react-organism](https://github.com/RoyalIcing/react-organism)
 
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
+[build-badge]: https://img.shields.io/travis/RoyalIcing/preact-organism.png?style=flat-square
+[build]: https://travis-ci.org/RoyalIcing/preact-organism
 
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
+[npm-badge]: https://img.shields.io/npm/v/preact-organism.png?style=flat-square
+[npm]: https://www.npmjs.org/package/preact-organism
 
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+[coveralls-badge]: https://img.shields.io/coveralls/RoyalIcing/preact-organism/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/RoyalIcing/preact-organism
