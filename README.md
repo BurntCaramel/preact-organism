@@ -3,6 +3,7 @@
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
+![](http://img.badgesize.io/https://unpkg.com/preact-organism/dist/preact-organism.min.js?compression=gzip&style=flat-square)
 
 **Dead simple React state management to bring pure components alive**
 

@@ -1,6 +1,6 @@
 {
   "name": "preact-organism",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Describe preact-organism here",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -15,9 +15,12 @@
     "dev": "nwb serve-preact-app ./demo",
     "test": "nwb test",
     "test:coverage": "nwb test --coverage",
-    "test:watch": "nwb test --server"
+    "test:watch": "nwb test --server",
+    "prepublishOnly": "npm run test && npm run build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "awareness": "^1.1.3"
+  },
   "peerDependencies": {
     "preact": "^8.2.6"
   },
